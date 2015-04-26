@@ -38,6 +38,7 @@ test with pyr/pyls
 
 To provide a sample of chemical space the Life Chemicals library has been subset into themed collections based on a seed list containing compounds of interest. Feel free to browse these collections by using the following R Shiny web application.
 
+![Shiny web app](https://github.com/andrewdefries/LifeChemicalsAnnotation/blob/master/LifeChemicalsAnnotationViewer.png)
 
 
 
