@@ -11,7 +11,28 @@ Life Chemicals has a large collection of ~380,000 diverse small molecule compoun
 Procedural explanation
 ======================
 
-Several lists are used to search for structurally similar molecules in the Life Chemicals stock. See the folder R/ for executable code to perform various Tanimoto searches based on seed lists.
+Several lists, see table, are used to search for structurally similar molecules in the Life Chemicals stock. To learn more about the cheminformatics operations please see the folder R/ for executable code to perform various Tanimoto searches based on seed lists.
+
+The following are several lists used to assemble subsets of the Life Chemicals stock:
+
+Annotation | Seed txt | Seed SDF | Stock TXT | Stock SDF 
+-----------|----------|----------|-----------|-----------
+PubChem Bioassay Bioactives | TXT | SDF | TXT | SDF
+Plant Growth Regulators | TXT | SDF | TXT | SDF
+Agrochemicals | TXT | SDF | TXT | SDF
+Pesticides | TXT | SDF | TXT | SDF
+Herbicides | TXT | SDF | TXT | SDF
+
+Theme | Seed txt | Seed SDF | Stock TXT | Stock SDF 
+-----------|----------|----------|-----------|-----------
+Author | TXT | SDF | TXT | SDF
+PDF | TXT | SDF | TXT | SDF
+Book  | TXT | SDF | TXT | SDF
+
+Custom | Seed txt | Seed SDF | Stock TXT | Stock SDF 
+-----------|----------|----------|-----------|-----------
+Target library via Protein query
+test with pyr/pyls
 
 ![Subsetting the Life Chemicals library](https://github.com/andrewdefries/LifeChemicalsAnnotation/blob/master/LifeChemicalsBioactiveSubset.png)
 
