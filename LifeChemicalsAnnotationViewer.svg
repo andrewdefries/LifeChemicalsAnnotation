@@ -14,7 +14,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="LifeChemicalsAnnotationViewer.svg">
+   sodipodi:docname="LifeChemicalsAnnotationViewer.png">
   <defs
      id="defs2987" />
   <sodipodi:namedview
@@ -59,13 +59,13 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="160"
-       y="64.094482"
+       y="62.094482"
        id="text3027"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3029"
          x="160"
-         y="64.094482"
+         y="62.094482"
          style="font-size:46px">Life Chemicals Annotation Viewer</tspan></text>
     <rect
        style="fill:#cccccc"
@@ -109,49 +109,49 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="88"
-       y="268.09448"
+       x="86"
+       y="266.09448"
        id="text3045"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3047"
-         x="88"
-         y="268.09448"
+         x="86"
+         y="266.09448"
          style="font-size:40px">theme</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="88"
-       y="408.09448"
+       x="86"
+       y="396.09448"
        id="text3045-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3047-8"
-         x="88"
-         y="408.09448"
+         x="86"
+         y="396.09448"
          style="font-size:40px">author</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="82.435585"
-       y="141.36694"
+       x="94.435585"
+       y="145.36694"
        id="text3070"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3072"
-         x="82.435585"
-         y="141.36694">query</tspan></text>
+         x="94.435585"
+         y="145.36694">query</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="52"
-       y="542.09448"
+       y="538.09448"
        id="text3074"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3076"
          x="52"
-         y="542.09448">PDF/Book</tspan></text>
+         y="538.09448">PDF/Book</tspan></text>
     <rect
        style="fill:#cccccc"
        id="rect3037-8"
@@ -282,14 +282,14 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="326"
-       y="682.09448"
+       x="330"
+       y="686.09448"
        id="text3192"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3194"
-         x="326"
-         y="682.09448">hclust options</tspan></text>
+         x="330"
+         y="686.09448">hclust options</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -366,14 +366,14 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="400"
-       y="144.09448"
+       x="360"
+       y="146.09448"
        id="text3297"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3299"
-         x="400"
-         y="144.09448">smiles</tspan></text>
+         x="360"
+         y="146.09448">hash search</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
