@@ -3,6 +3,9 @@ Annotation of the Life Chemical stock compound library using several cheminforma
 
 This repository contains code and documentation to subset the Life Chemicals Stock compounds (http://www.lifechemicals.com/downloads/9353/9360) into custom collections.
 
+![Subsetting the Life Chemicals library](https://github.com/andrewdefries/LifeChemicalsAnnotation/blob/master/LifeChemicalsBioactiveSubset.png)
+
+
 Motivation
 ==========
 
@@ -33,8 +36,6 @@ Custom | Seed txt | Seed SDF | Stock TXT | Stock SDF
 -----------|----------|----------|-----------|-----------
 Target library via Protein query
 test with pyr/pyls
-
-![Subsetting the Life Chemicals library](https://github.com/andrewdefries/LifeChemicalsAnnotation/blob/master/LifeChemicalsBioactiveSubset.png)
 
 To provide a sample of chemical space the Life Chemicals library has been subset into themed collections based on a seed list containing compounds of interest. Feel free to browse these collections by using the following R Shiny web application.
 
